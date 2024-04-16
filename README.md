@@ -1,6 +1,6 @@
 # Titanic-Classification-Competition
 
-We are given a training with some features of 891 passangers and their target variable which is an indicator specifying whether they survived the clash.
-The purpuse is to predict which of the people in the test made it.
-
+This is my attempt at Kaggle's titanic prediction competition.
+This a classic binary classification problem. We are required to build a model that predicts if a passenger survives the journey using some features.
+We are given a training set with 891 observations, and our preformence is measured using our accuracy on a test set with 418 observations.
 
